@@ -1,0 +1,25 @@
+{
+  "name": "snowpack-plugin-closure-compiler",
+  "version": "1.0.0",
+  "description": "syntaxsuccess.com",
+  "main": "plugin.js",
+  "devDependencies": {
+    "google-closure-compiler": "^20201006.0.0"
+  },
+  "keywords": [
+    "snowpack",
+    "snowpack-plugin",
+    "closure",
+    "closure-compiler",
+    "snowpack-closure",
+    "snowpack-plugin-closure"
+  ],
+  "authors": [
+    "Torgeir Helgevold"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
